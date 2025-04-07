@@ -1,4 +1,4 @@
-# 分支说明
+# 使用说明
 高通私人专用，无法编译其他平台，带满血NSS驱动。
 
 Fork  https://github.com/VIKINGYFY/immortalwrt
